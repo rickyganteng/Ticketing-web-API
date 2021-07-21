@@ -1,6 +1,6 @@
 <h1 align="center">ExpressJS - Back End - Ticketing-Web-API</h1>
 
-an online cinema ticket purchase website that is easy to use for all ages. [More about Express](https://en.wikipedia.org/wiki/Express.js)
+an online cinema ticket purchase website that is easy to use for all ages.
 
 ## Built With
 
